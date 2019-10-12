@@ -1,0 +1,949 @@
+INSERT INTO `dd_boats` (`id`, `name`, `phrf`, `type`) VALUES
+
+70, 'Briza', 189, 'Ranger 29'
+123, 'Double Take', -27, 'J/145'
+150, 'Dreams', 159, 'Olson 25'
+210, 'Gaucho', 114, 'Ross 930'
+333, 'Mata Hari', 147, 'Catalina 36'
+351, 'Nimble', 30, 'Aerodyne 43'
+367, 'Ocelot', -27, 'Fox 44'
+420, 'Runaway', 141, 'Norlin 34'
+451, 'Stella Blue', 105, 'Nordic 40'
+477, 'Skookum', 220, 'Harbor 20'
+545, 'Thundorca', 117, 'Tartan 41'
+570, 'Verity', 154, 'Jeanneau Sun Odyssey 37'
+579, 'Wizard', 120, 'J/27'
+690, 'Shakedown', NULL, NULL
+691, 'Shoot the Moon', NULL, NULL
+692, 'Airtight', NULL, NULL
+693, 'Scat', 195, 'STU 26'
+694, 'Full Moon', 201, 'Santana 525'
+695, 'Dreams', NULL, NULL
+696, 'For Sale Santana 20', NULL, NULL
+697, 'Foxy Lady', NULL, NULL
+698, 'Polaris', NULL, NULL
+699, 'Thistle', 83, 'Thistle'
+700, 'Wave', NULL, NULL
+701, 'US #1764', NULL, NULL
+702, 'Masked Man', NULL, NULL
+703, 'Retsina', NULL, NULL
+704, 'Jammer', NULL, NULL
+705, 'Ignitor', 205, 'Martin 29'
+706, '?', NULL, NULL
+707, 'Deviant', NULL, NULL
+708, 'Drum', NULL, NULL
+709, 'Sonata', NULL, NULL
+710, 'Yankee II', NULL, NULL
+711, '505 #6987', NULL, NULL
+712, 'SYC #3', 177, 'J/22'
+713, 'US #121', NULL, NULL
+714, 'JUBILEE', NULL, NULL
+715, 'Breathless', NULL, NULL
+716, 'Santana 21 #584', NULL, NULL
+717, 'Winkie', NULL, NULL
+718, 'Wiley Cat', NULL, NULL
+719, 'SYC #6', 177, 'J/22'
+720, 'SYC #2', 177, 'J/22'
+721, 'Ptolemy', NULL, NULL
+722, 'Breathless Mahoney', NULL, NULL
+723, 'Romping Roy', NULL, NULL
+724, 'April Love', NULL, NULL
+725, 'Mexicali Rose', NULL, NULL
+726, 'N/A', NULL, NULL
+727, 'Stars & Stripes', NULL, NULL
+728, 'Wall St. Duck', NULL, NULL
+729, 'High Frequency', NULL, NULL
+730, 'For Sale', NULL, NULL
+731, 'Winky', NULL, NULL
+732, '1982', NULL, NULL
+733, '2376', NULL, NULL
+734, 'Santana 20 #24', NULL, NULL
+735, 'Santana 20 #116', NULL, NULL
+736, 'Waveling', NULL, NULL
+737, 'Moon', NULL, NULL
+738, 'Wave Runner', NULL, NULL
+739, 'Fat Chance', NULL, NULL
+740, 'Cal 27 "29590"', NULL, NULL
+741, 'SYC #4', 177, 'J/22'
+742, 'Magic Bus', NULL, NULL
+743, 'Whip', NULL, NULL
+744, 'Checker Flag', NULL, NULL
+745, 'Flirt - Lightning', NULL, NULL
+746, 'Yellow Hull', NULL, NULL
+747, 'Andiamo', NULL, NULL
+748, 'Wavelength', NULL, NULL
+749, 'SYC 3 Pat Kershaw', 177, 'J/22'
+750, 'SYC #1', 177, 'J/22'
+751, 'Lightning', NULL, NULL
+752, 'Pusillanimous', NULL, NULL
+753, 'Opus', NULL, NULL
+754, 'Fraid Knot', NULL, NULL
+755, 'Corina 15', NULL, NULL
+756, '505 #88441', NULL, NULL
+757, 'WhooDat', NULL, NULL
+758, 'Thin Air', NULL, NULL
+759, 'White Lido', NULL, NULL
+760, 'C15', NULL, NULL
+761, 'Fast Company', NULL, NULL
+762, '505', NULL, NULL
+763, 'San Juan 21 #584', NULL, NULL
+764, 'Wildfire', NULL, NULL
+765, 'Airtime', NULL, NULL
+766, 'Dire Straits', 99, 'Olson 30'
+767, 'Santana 25 #57689', NULL, NULL
+768, 'S20 #116', NULL, NULL
+769, 'Lido', NULL, NULL
+770, 'Holder #12', NULL, NULL
+771, 'Zig Zag', NULL, NULL
+772, 'Williwaw', NULL, NULL
+773, 'Highland Fling', NULL, NULL
+774, 'Perfectly Strange', NULL, NULL
+775, 'Holo Holo', NULL, NULL
+776, 'Round-up Goose', NULL, NULL
+777, 'Brass Tacks', NULL, NULL
+778, 'Hematoma', NULL, NULL
+779, 'Blue Hull #59594', NULL, NULL
+780, 'Wacky', NULL, NULL
+781, 'Midnight Special', NULL, NULL
+782, 'Savage Beagle', NULL, NULL
+783, 'Harbor 20', NULL, NULL
+784, 'Ranger 22', NULL, NULL
+785, 'Sammie Joe', NULL, NULL
+786, 'Tart', NULL, NULL
+787, 'Laser Speed', NULL, NULL
+788, 'Salmon Joe', NULL, NULL
+789, 'Halcion', NULL, NULL
+790, 'Splash Tango II', NULL, NULL
+791, 'Social Parasite', NULL, NULL
+792, 'Incantation', NULL, NULL
+793, 'Deception', 222, 'Catalina 27'
+794, 'Harbor 20 #26', NULL, NULL
+795, '505 - 5939', NULL, NULL
+796, 'No Idea', NULL, NULL
+797, 'Chaulk', NULL, NULL
+798, 'Etchell', NULL, NULL
+799, 'Gaucho', NULL, NULL
+800, 'Tidal Wave', NULL, NULL
+801, 'Lazer #5', NULL, NULL
+802, 'Roxanne', NULL, NULL
+803, 'Mustang Sally', NULL, NULL
+804, 'SYV Love', NULL, NULL
+805, 'Red Shift', NULL, NULL
+806, 'Paddy Wagon', NULL, NULL
+807, 'Rev', NULL, NULL
+808, 'Bridget', NULL, NULL
+809, 'S 115', NULL, NULL
+810, '505 #5936', NULL, NULL
+811, 'Coronada 15 US69', NULL, NULL
+812, 'Little Jazz', NULL, NULL
+813, 'Corvus - & Jammer', NULL, NULL
+814, '505 #5543', NULL, NULL
+815, '505 #5939', NULL, NULL
+816, '#331', NULL, NULL
+817, 'Scoundrel', NULL, NULL
+818, 'Water Torture', NULL, NULL
+819, 'Fossil Tech', NULL, NULL
+820, '420 #1514', NULL, NULL
+821, '420 #1504', NULL, NULL
+822, 'Chaak', NULL, NULL
+823, 'Samish Spirit', NULL, NULL
+824, 'Naiad', NULL, NULL
+825, 'Seafire', NULL, NULL
+826, 'Hurricane', NULL, NULL
+827, 'Windmist II', NULL, NULL
+828, 'Tempress', NULL, NULL
+829, 'Airloom', NULL, NULL
+830, 'Valella', NULL, NULL
+831, 'Afterburner', NULL, NULL
+832, 'Shock Therapy', NULL, NULL
+833, 'Shogun', NULL, NULL
+834, 'American Pie', NULL, NULL
+835, 'Zephyr', NULL, NULL
+836, 'XTC', NULL, NULL
+837, 'Uncas', NULL, NULL
+838, 'Force 5', NULL, NULL
+839, 'Neptune\'s Car', -78, 'Santa Cruz 70'
+840, 'Y Mep', NULL, NULL
+841, 'T-Bone', NULL, NULL
+842, 'Y - Me', NULL, NULL
+843, 'Majic Pudding', NULL, NULL
+844, 'Ruby\'s Yacht', NULL, NULL
+845, 'Santana 20 #681', NULL, NULL
+846, 'US #7795', NULL, NULL
+847, 'US #1015', NULL, NULL
+848, 'White Hull Tri', NULL, NULL
+849, 'Tera 505', NULL, NULL
+850, 'Why Be', NULL, NULL
+851, 'Dragon Fly', NULL, NULL
+852, 'Amigos', NULL, NULL
+853, 'Zoo', NULL, NULL
+854, 'Vallahala', NULL, NULL
+855, 'US #1080', NULL, NULL
+856, 'Tekka Maki', NULL, NULL
+857, 'International 14', NULL, NULL
+858, '13 / 17', NULL, NULL
+859, 'Krystal Ki', NULL, NULL
+860, 'Beluga', NULL, NULL
+861, 'Catavinos', NULL, NULL
+862, '420 #1509', NULL, NULL
+863, '420 #1510', NULL, NULL
+864, 'Winter\'s Dream', NULL, NULL
+865, '505 #6736', NULL, NULL
+866, '505 #7795', NULL, NULL
+867, 'Work Release', NULL, NULL
+868, 'Monopoly', NULL, NULL
+869, 'Etchells US #88', 120, 'Etchells 22'
+870, 'Terra', NULL, NULL
+871, '#140', NULL, NULL
+872, '49er', NULL, NULL
+873, 'Karleken', NULL, NULL
+874, 'Santana 20 #410', NULL, NULL
+875, '505 #7095', NULL, NULL
+876, 'Snook', NULL, NULL
+877, '#1080', NULL, NULL
+878, 'US #12', NULL, NULL
+879, '38D', NULL, NULL
+880, 'Wet Spot', NULL, NULL
+881, 'Satisfaction', NULL, NULL
+882, 'US #5545', NULL, NULL
+883, '#131373', NULL, NULL
+884, 'J24 #2257', NULL, NULL
+885, 'US #681', NULL, NULL
+886, 'US #116', NULL, NULL
+887, 'Nauta', NULL, NULL
+888, 'US #1082', NULL, NULL
+889, 'Marley Barley', NULL, NULL
+890, 'Borderboard', NULL, NULL
+891, 'Foul Play', NULL, NULL
+892, 'Mystique', NULL, NULL
+893, 'Pardon Me Boyz', NULL, NULL
+894, 'Isis', NULL, NULL
+895, 'Christa Bell', NULL, NULL
+896, 'Walkabout', NULL, NULL
+897, 'Crime Scene', NULL, NULL
+898, 'Goose & Duck', NULL, NULL
+899, 'Minintrepid', NULL, NULL
+900, 'March First', NULL, NULL
+901, 'Madam X', NULL, NULL
+902, 'Aging Orange', NULL, NULL
+903, 'Lido 14', NULL, NULL
+904, 'Synergy 1000', NULL, NULL
+905, 'Demonstration Race Spirit of Seattle! Afterburner', NULL, NULL
+906, 'Aprisa', NULL, NULL
+907, 'Lullaby', NULL, NULL
+908, 'Zoomie Island', NULL, NULL
+909, 'Laser #1028', NULL, NULL
+910, 'Lighting #9401', NULL, NULL
+911, 'Sachem', NULL, NULL
+912, 'Coast 13', NULL, NULL
+913, 'Dirty Bird', NULL, NULL
+914, 'Rawhide', NULL, NULL
+915, '420 #1513', NULL, NULL
+916, 'Lunch Box', NULL, NULL
+917, 'Yakima', NULL, NULL
+918, 'Agin\' Orange', NULL, NULL
+919, 'Emerald Beauty', NULL, NULL
+920, 'Laser #162239', NULL, NULL
+921, 'Laser #16973', NULL, NULL
+922, 'Where\'s the Beef?', 228, 'Ranger 26'
+923, 'I-14 US#1032', NULL, NULL
+924, '505 #7300', NULL, NULL
+925, 'US #420', NULL, NULL
+926, 'Laser #131373', NULL, NULL
+927, 'Bronze #5559', NULL, NULL
+928, 'Spirit of Seattle', NULL, NULL
+929, 'Harbor 20 #65', NULL, NULL
+930, 'Harbor 20 #98', NULL, NULL
+931, 'I-14 #17', NULL, NULL
+932, 'Wind Bird', NULL, NULL
+933, 'Yankee 3', NULL, NULL
+934, 'Temptress', NULL, NULL
+935, 'Duke', NULL, NULL
+936, 'Rozinate', NULL, NULL
+937, 'Hare Maru', NULL, NULL
+938, 'SkuzzBucket', NULL, NULL
+939, 'Laser #165885', NULL, NULL
+940, 'Laser #3731', NULL, NULL
+941, '505 #6735', NULL, NULL
+942, 'Laser #69010', NULL, NULL
+943, 'Kowloon', NULL, NULL
+944, 'Black Majic', NULL, NULL
+945, '505 #5542', NULL, NULL
+946, 'Laser #3738', NULL, NULL
+947, 'Tuesday', 237, 'Columbia 26'
+948, 'Black Magic', NULL, NULL
+949, 'Laser #40251', NULL, NULL
+950, 'Be Jam In', NULL, NULL
+951, 'Majic', NULL, NULL
+952, '505 #8681', NULL, NULL
+953, 'Melges 24 #15', NULL, NULL
+954, 'Laser #1125', NULL, NULL
+955, 'War Canoe', NULL, NULL
+956, 'J22 US #283', NULL, NULL
+957, 'Thistle #2427', 83, 'Thistle'
+958, 'Go Dog Go', NULL, NULL
+959, 'Diversion', NULL, NULL
+960, 'Harbor 20 #122', NULL, NULL
+961, 'Harbor 20 #95 Black Magic', NULL, NULL
+962, 'J24 #1242', NULL, NULL
+963, 'J22', NULL, NULL
+964, 'Holder #16', NULL, NULL
+965, 'Dragon US #10', NULL, NULL
+966, 'Green Card', NULL, NULL
+967, 'Tasar #2376', NULL, NULL
+968, 'Frequent Flyer', NULL, NULL
+969, 'Runner', NULL, NULL
+970, 'Thistle #968', 83, 'Thistle'
+971, '505 US #7795', NULL, NULL
+972, 'Wild Turkey', NULL, NULL
+973, 'Thistle #3593', 83, 'Thistle'
+974, 'Splif', NULL, NULL
+975, 'Holligan & Shogun', NULL, NULL
+976, 'Thistle #7095', 83, 'Thistle'
+977, 'Faraway', NULL, NULL
+978, 'Uncle Bill', NULL, NULL
+979, 'Capriccio', NULL, NULL
+980, 'Rhumb Runner', NULL, NULL
+981, 'Falcon', NULL, NULL
+982, 'Carpe Fromage', NULL, NULL
+983, 'Tilted Kilt', NULL, NULL
+984, 'Dangerous when Wet', 84, 'Davidson 30'
+985, 'Star #7469', NULL, NULL
+986, '505 #7875', NULL, NULL
+987, 'Wings', NULL, NULL
+988, 'Laser', NULL, NULL
+989, 'Bandolier', NULL, NULL
+990, 'Puttansea', NULL, NULL
+991, '505 #152011', NULL, NULL
+992, '505 #7845', NULL, NULL
+993, 'Exclamation', NULL, NULL
+994, 'Bad Dog', NULL, NULL
+995, 'Laser #3730', NULL, NULL
+996, 'Ultimate 20', NULL, NULL
+997, 'Catanis', NULL, NULL
+998, 'Baby Blue Butt', NULL, NULL
+999, 'Orca', NULL, NULL
+1000, 'True Blue', NULL, NULL
+1001, 'Real One', NULL, NULL
+1002, 'Pterganon', NULL, NULL
+1003, 'Mojo', NULL, NULL
+1004, 'Enigma', NULL, NULL
+1005, 'No Name Ross 930', NULL, NULL
+1006, 'Re-Quest', NULL, NULL
+1007, 'Catavinas', NULL, NULL
+1008, 'Nacra 20', NULL, NULL
+1009, '470 #8', NULL, NULL
+1010, 'Holder #12 "Romero"', NULL, NULL
+1011, 'C-Stray', NULL, NULL
+1012, 'Agent Orange', NULL, NULL
+1013, 'Free Willy', NULL, NULL
+1014, 'Silky', NULL, NULL
+1015, 'C&C 35 69211', NULL, NULL
+1016, 'Eye Eye', NULL, NULL
+1017, 'Laser "Estonia"', NULL, NULL
+1018, 'Jaded', NULL, NULL
+1019, 'Star', NULL, NULL
+1020, 'Blue Bird', NULL, NULL
+1021, 'Alcy', NULL, NULL
+1022, '505 US #ES', NULL, NULL
+1023, 'Pteranodon', NULL, NULL
+1024, '505 #7895', NULL, NULL
+1025, 'Lulu', NULL, NULL
+1026, 'C-Lark', NULL, NULL
+1027, 'Poisson Soluble', NULL, NULL
+1028, 'Twinkle Twinkle', NULL, NULL
+1029, 'Airhead', NULL, NULL
+1030, 'The Turk', NULL, NULL
+1031, 'Obsession', NULL, NULL
+1032, 'H-Boat', NULL, NULL
+1033, 'Skipping Stone', NULL, NULL
+1034, 'C-Lark & Holder 12 (Tie!)', NULL, NULL
+1035, 'Icon', NULL, NULL
+1036, 'Phoenix', NULL, NULL
+1037, 'Serenity', NULL, NULL
+1038, 'Avatar', NULL, NULL
+1039, 'Garufa', NULL, NULL
+1040, 'Hare Mare', NULL, NULL
+1041, 'My Way', NULL, NULL
+1042, 'Scooby Doo', NULL, NULL
+1043, 'Buchan 37', NULL, NULL
+1044, 'Hooligan', NULL, NULL
+1045, 'Borderlord', NULL, NULL
+1046, 'Santana 20 #334', NULL, NULL
+1047, 'Restless', NULL, NULL
+1048, 'Blue Steel', NULL, NULL
+1049, 'Olson 911', NULL, NULL
+1050, 'Bullet', NULL, NULL
+1051, 'Ranger 22 "Schmidt"', NULL, NULL
+1052, 'Laser #13470', NULL, NULL
+1053, 'Stepping Stone', NULL, NULL
+1054, 'Shrek', 36, '1D 35'
+1055, 'My Dixie\'s Broken ( 49er)', NULL, NULL
+1056, 'S20 #334', NULL, NULL
+1057, '#2239', NULL, NULL
+1058, 'Blue Fin', NULL, NULL
+1059, 'S20#334', NULL, NULL
+1060, 'The Whip', NULL, NULL
+1061, 'Jack Rabbit', NULL, NULL
+1062, 'Wahine', NULL, NULL
+1063, 'Rough Stuff', NULL, NULL
+1064, 'Tasar #279', NULL, NULL
+1065, 'Storyville', NULL, NULL
+1066, 'Hobie #37373', NULL, NULL
+1067, 'Hobie #7875', NULL, NULL
+1068, 'Thistle #593', 83, 'Thistle'
+1069, 'Wool Gatherer', NULL, NULL
+1070, 'Hobie #1529', NULL, NULL
+1071, 'Hydrotherapy', NULL, NULL
+1072, 'Bump Pass & Away', NULL, NULL
+1073, 'Laser #131377', NULL, NULL
+1074, 'Do the Math', NULL, NULL
+1075, 'Blue Jay', NULL, NULL
+1076, '#2677', NULL, NULL
+1077, 'Sea Biscut', NULL, NULL
+1078, 'Code Blue', NULL, NULL
+1079, 'Merlot', NULL, NULL
+1080, 'Sea Bisquit', NULL, NULL
+1081, 'BraveHeart', NULL, NULL
+1082, 'Gecko', NULL, NULL
+1083, 'Epic', NULL, NULL
+1084, 'Calculated Risk', NULL, NULL
+1085, 'Systique', NULL, NULL
+1086, 'Chemistry', NULL, NULL
+1087, 'Avlar', NULL, NULL
+1088, 'Amarti', NULL, NULL
+1089, 'Voca Loca', NULL, NULL
+1090, 'U-20', NULL, NULL
+1091, 'Freedom', 201, 'J22'
+1092, 'Dragon', NULL, NULL
+1093, 'Distance', 126, 'Buchan 37'
+1094, '#227', NULL, NULL
+1095, 'Tasar #2266', NULL, NULL
+1096, 'Laser #25', NULL, NULL
+1097, 'Intrigue', NULL, NULL
+1098, 'Tack and Jibe', NULL, NULL
+1099, 'Red Wing', NULL, NULL
+1100, 'K-Sea & Code Blue', NULL, NULL
+1101, '505 #8446', NULL, NULL
+1102, '# 2239', NULL, NULL
+1103, 'Sydney Anne', NULL, NULL
+1104, 'Carpe the Pirate', NULL, NULL
+1105, 'Katrinka Finkelspat', NULL, NULL
+1106, 'Almond Joy', NULL, NULL
+1107, 'Dangerous When Wet 3', NULL, NULL
+1108, '#69225', NULL, NULL
+1109, 'Laser #150132', NULL, NULL
+1110, 'Ricochet', NULL, NULL
+1111, '#2266', NULL, NULL
+1112, '#284804', NULL, NULL
+1113, '# 227', NULL, NULL
+1114, '# 1579', NULL, NULL
+1115, '# 2266', NULL, NULL
+1116, 'CFJ 4/ 5 Boats This Start', NULL, NULL
+1117, 'Percussive Maintenance', NULL, NULL
+1118, 'J24 US #2169', NULL, NULL
+1119, 'Native Sun', NULL, NULL
+1120, 'C & C 25 /30 Boats This Start', NULL, NULL
+1121, 'CFJ 25 Dingy Style', NULL, NULL
+1122, '# 1579 / 9 Boats This Start', NULL, NULL
+1123, 'Blue Jay 22 Boats This Start', NULL, NULL
+1124, 'Heavy Too', NULL, NULL
+1125, 'Laser #152204', NULL, NULL
+1126, 'Tasar #1579', NULL, NULL
+1127, 'TBird #60', NULL, NULL
+1128, 'Black Majic/24 Boats This Start', NULL, NULL
+1129, 'Tasar #2687', NULL, NULL
+1130, 'Sonar #2266', NULL, NULL
+1131, 'Festivus', NULL, NULL
+1132, '505 #8792', NULL, NULL
+1133, 'Trimaran F-33', NULL, NULL
+1134, 'Shindig', NULL, NULL
+1135, '# 227 / 28 Boats This Start', NULL, NULL
+1136, 'Kestrel', NULL, NULL
+1137, 'Taser #226', NULL, NULL
+1138, 'Catavinos & Black Majic', NULL, NULL
+1139, 'Almond Joy & Winky', NULL, NULL
+1140, 'Alloy & Anakerna', NULL, NULL
+1141, 'Sonar #2687', NULL, NULL
+1142, 'Sonar # # 2266', NULL, NULL
+1143, 'Breeze', NULL, NULL
+1144, 'Epic/Here and Now/Mystique', NULL, NULL
+1145, 'Aprisa/Calculated Risk/Thin Air/14 Boats This Star', NULL, NULL
+1146, 'US #28044', NULL, NULL
+1147, 'Melody', NULL, NULL
+1148, 'Tack\'n\'Jibe', NULL, NULL
+1149, 'Discovery', NULL, NULL
+1150, 'What a Tripp!', NULL, NULL
+1151, 'Tern', NULL, NULL
+1152, 'Laser #118', NULL, NULL
+1153, '505 # 8446', NULL, NULL
+1154, '470 # CAN 520', NULL, NULL
+1155, '505 # CAN 6289', NULL, NULL
+1156, 'Tikanga', NULL, NULL
+1157, 'Elwood', NULL, NULL
+1158, 'Mata Hari', NULL, NULL
+1159, 'Laser #1039', NULL, NULL
+1160, 'La Supita', NULL, NULL
+1161, 'Humerous', NULL, NULL
+1162, 'Cinc-O-Sink', NULL, NULL
+1163, 'Mad Science', NULL, NULL
+1164, 'O Barquinho', NULL, NULL
+1165, 'Hasl Free', NULL, NULL
+1166, 'Barrel of Monkeys', NULL, NULL
+1167, 'Asylum', NULL, NULL
+1168, 'Go Girl', NULL, NULL
+1169, 'Laser #18917', NULL, NULL
+1170, 'Taser CAN #50', NULL, NULL
+1171, 'California Girl', NULL, NULL
+1172, 'Mistral', NULL, NULL
+1173, 'Tamhaha', NULL, NULL
+1174, '505 #7096', NULL, NULL
+1175, 'Tantivity', NULL, NULL
+1176, 'J Esalt', NULL, NULL
+1177, 'Taj Ma Hull', NULL, NULL
+1178, '505 #6289', NULL, NULL
+1179, 'Tasar #801', NULL, NULL
+1180, '17', NULL, NULL
+1181, 'F33 # 79036', NULL, NULL
+1182, 'All for a Girl', NULL, NULL
+1183, 'SJ21 #40', NULL, NULL
+1184, 'Aakema', NULL, NULL
+1185, '505 # 7096', NULL, NULL
+1186, 'Z\'Enpar', NULL, NULL
+1187, 'A Cat # 206', NULL, NULL
+1188, 'Norn', NULL, NULL
+1189, 'Jetzy', NULL, NULL
+1190, 'C&C 59893', NULL, NULL
+1191, 'Tasar #2279', NULL, NULL
+1192, 'V-1', NULL, NULL
+1193, 'US #8446', NULL, NULL
+1194, 'US #7609', NULL, NULL
+1195, 'US #2376', NULL, NULL
+1196, 'Mystic', NULL, NULL
+1197, 'Straight Shot', NULL, NULL
+1198, 'Skye Rocket', NULL, NULL
+1199, 'Great Expectations', NULL, NULL
+1200, 'J24 #5543', NULL, NULL
+1201, 'B 22', NULL, NULL
+1202, '505 # 18917', NULL, NULL
+1203, 'Overboard', NULL, NULL
+1204, 'Melges 24 #401', NULL, NULL
+1205, 'Eleanora', NULL, NULL
+1206, 'Mr. Wiggly', NULL, NULL
+1207, '505 # 7609', NULL, NULL
+1208, 'J27 #6978', NULL, NULL
+1209, 'B - 22', NULL, NULL
+1210, 'Colibri', NULL, NULL
+1211, 'Pete\'s Boat', NULL, NULL
+1212, 'Mekeka', NULL, NULL
+1213, 'E Scow #707', NULL, NULL
+1214, 'Div.1 BraveheartDiv.2 Voca Loca', NULL, NULL
+1215, 'First Edition', NULL, NULL
+1216, 'Quinnessence', NULL, NULL
+1217, 'Spellbound', NULL, NULL
+1218, 'US #51697', NULL, NULL
+1219, 'Minor Threat', NULL, NULL
+1220, 'Barbaree', NULL, NULL
+1221, 'Blue Pearl', NULL, NULL
+1222, 'Katrinka Finklesplat', NULL, NULL
+1223, 'Double Tall', NULL, NULL
+1224, 'Arthur', NULL, NULL
+1225, 'Sydney Anna', NULL, NULL
+1226, 'TBird #974', NULL, NULL
+1227, 'Hitched', NULL, NULL
+1228, 'Distancer', NULL, NULL
+1229, 'Valkarie', NULL, NULL
+1230, 'Supertramp', NULL, NULL
+1231, 'Fortis', NULL, NULL
+1232, 'Almund Joy', NULL, NULL
+1233, '505 #Can 520', NULL, NULL
+1234, 'Barabee', NULL, NULL
+1235, 'Ballistic', 24, 'Melges 32'
+1236, 'Dance', NULL, NULL
+1237, 'Dew Flicker', NULL, NULL
+1238, 'Summer Babe', NULL, NULL
+1239, 'Johnson 18 #194', NULL, NULL
+1240, '#250', NULL, NULL
+1241, 'Predator', NULL, NULL
+1242, 'Fangango', NULL, NULL
+1243, 'Invader', NULL, NULL
+1244, 'Anakena', 258, 'Ranger 22'
+1245, 'Fesitvus', NULL, NULL
+1246, 'Minstral', NULL, NULL
+1247, '#194', NULL, NULL
+1248, 'Johnson 18', NULL, NULL
+1249, 'Artemis', NULL, NULL
+1250, 'Quintessence', NULL, NULL
+1251, 'Figaro', NULL, NULL
+1252, 'Yokie', NULL, NULL
+1253, '#560', NULL, NULL
+1254, 'Frenzy', NULL, NULL
+1255, 'Cal 28', NULL, NULL
+1256, 'Zyvex', NULL, NULL
+1257, 'E-Scow', NULL, NULL
+1258, 'Platymus', NULL, NULL
+1259, 'C25 # 1901', NULL, NULL
+1260, 'Nomad', NULL, NULL
+1261, 'Thumper', NULL, NULL
+1262, 'Madrona', 18, 'Buchan 40'
+1263, 'RIP', NULL, NULL
+1264, 'Matinee', NULL, NULL
+1265, 'Laser #158797', NULL, NULL
+1266, 'Sea Lark', NULL, NULL
+1267, 'Allegro', NULL, NULL
+1268, '470 #Can 520', NULL, NULL
+1269, 'Laser #177198', NULL, NULL
+1270, 'Mini 12 #8', NULL, NULL
+1271, 'Mini 12 #10', NULL, NULL
+1272, 'Mini 12 #3', NULL, NULL
+1273, 'Flash', NULL, NULL
+1274, 'Rock-On', NULL, NULL
+1275, 'Mara', NULL, NULL
+1276, 'Santana 20 #59095', NULL, NULL
+1277, 'Hiatus', NULL, NULL
+1278, '#801', NULL, NULL
+1279, 'Wind Dancer', NULL, NULL
+1280, '#9858', NULL, NULL
+1281, 'Wicked Wahine', 24, 'Melges 32'
+1282, 'Secret Agent', NULL, NULL
+1283, 'Wind Dance', NULL, NULL
+1284, 'Saphyre', NULL, NULL
+1285, 'Santana 20#116', NULL, NULL
+1286, 'Backslider', 219, 'Cal 2/27'
+1287, '505#8446', NULL, NULL
+1288, 'Grey Wolf', NULL, NULL
+1289, 'Verity', NULL, NULL
+1290, 'Tasar 801', NULL, NULL
+1291, 'Ibis', NULL, NULL
+1292, 'Husky', NULL, NULL
+1293, 'Tachyon', NULL, NULL
+1294, 'Corvo', NULL, NULL
+1295, 'Manta Ray', NULL, NULL
+1296, 'Valkyrie', 198, 'Thunderbird'
+1297, 'Perspicacious', NULL, NULL
+1298, 'Tri #37', NULL, NULL
+1299, 'Zorra', NULL, NULL
+1300, 'Liquid Satisfaction', NULL, NULL
+1301, 'Legacy', NULL, NULL
+1302, 'Laurie\'s Taser', NULL, NULL
+1303, 'Absolutely', 18, 'Farr 39'
+1304, 'Laser SB', NULL, NULL
+1305, 'Laser #701', NULL, NULL
+1306, 'Zero Sink', NULL, NULL
+1307, 'Sushi', NULL, NULL
+1308, 'Sea-duced', NULL, NULL
+1309, 'Tasar #118', NULL, NULL
+1310, 'Santana 20 #59048', NULL, NULL
+1311, 'Europe #111', NULL, NULL
+1312, 'Elenora', NULL, NULL
+1313, 'Lightning #9401', NULL, NULL
+1314, '59048', NULL, NULL
+1315, '420 CAN 520', NULL, NULL
+1316, 'Santana 20 #356', NULL, NULL
+1317, 'CAN520', NULL, NULL
+1318, 'Calvin', NULL, NULL
+1319, 'Laser #118917', NULL, NULL
+1320, 'Mini 12 #12', NULL, NULL
+1321, 'Running Blues', NULL, NULL
+1322, 'Taser#2397', NULL, NULL
+1323, '#59048', NULL, NULL
+1324, 'Laser #170681', NULL, NULL
+1325, 'Hagar', NULL, NULL
+1326, 'Sunkist', NULL, NULL
+1327, 'Soul Brothers 3', NULL, NULL
+1328, 'Santana 20 #59046', NULL, NULL
+1329, 'Laser #178601', NULL, NULL
+1330, 'Illusionist', NULL, NULL
+1331, 'Dacha', NULL, NULL
+1332, 'Avalon', NULL, NULL
+1333, 'Zoren', NULL, NULL
+1334, 'Butterfly', NULL, NULL
+1335, '#1313 C-Lark', NULL, NULL
+1336, 'Winging It', NULL, NULL
+1337, '#1313 - C-Lark', NULL, NULL
+1338, 'Quack', NULL, NULL
+1339, 'Zoe', NULL, NULL
+1340, 'Tenacious', 153, 'Pearson Flyer 30'
+1341, 'Blue Jeans', NULL, NULL
+1342, 'Back Slider', NULL, NULL
+1343, 'Flying Dutchman', NULL, NULL
+1344, 'Tazar #801', NULL, NULL
+1345, 'Hobbes', NULL, NULL
+1346, 'Rocket 22', NULL, NULL
+1347, 'Overboard 801', NULL, NULL
+1348, 'Little Blue Dune Buggy', NULL, NULL
+1349, 'Shearwater', NULL, NULL
+1350, 'I Don\'t Know', NULL, NULL
+1351, 'Rajun Cajun', 171, 'J24'
+1352, 'Taniwha', NULL, NULL
+1353, 'Tiny Bridget', NULL, NULL
+1354, 'Aquarius 23\'', NULL, NULL
+1355, 'Snappy Tom', NULL, NULL
+1356, 'Fancy', NULL, NULL
+1357, 'Manhattan Transfer', NULL, NULL
+1358, 'Santana 20 #590', NULL, NULL
+1359, '#59908', NULL, NULL
+1360, 'Chili Verde', 171, 'Thistle'
+1361, '#936', NULL, NULL
+1362, 'Forced', NULL, NULL
+1363, 'Pee Wee Magic', NULL, NULL
+1364, 'Dreamscape', NULL, NULL
+1365, 'Rascal', NULL, NULL
+1366, 'Hobie #1', NULL, NULL
+1367, 'Hobie #8', NULL, NULL
+1368, 'Hobie #5', NULL, NULL
+1369, 'Limpet', NULL, NULL
+1370, 'GBR#231', NULL, NULL
+1371, 'Syndney Anna', NULL, NULL
+1372, 'Fretless', NULL, NULL
+1373, 'Black Pearl', NULL, NULL
+1374, 'Recess', NULL, NULL
+1375, 'Squidly', NULL, NULL
+1376, 'Selchie', 198, 'Thunderbird'
+1377, 'Lamba Leighs', NULL, NULL
+1378, 'Free Bee', NULL, NULL
+1379, 'Celebration', NULL, NULL
+1380, 'Wild Cunning', NULL, NULL
+1381, 'CAN 520', NULL, NULL
+1382, 'Dolphy Splash', NULL, NULL
+1383, 'Laser #170690', NULL, NULL
+1384, 'Laser #161980', NULL, NULL
+1385, 'Laser #124771', NULL, NULL
+1386, 'Tikango', NULL, NULL
+1387, 'Valkryie', NULL, NULL
+1388, 'Piglet', NULL, NULL
+1389, 'Tigger/DWS', NULL, NULL
+1390, 'Stomp Dancer', NULL, NULL
+1391, 'Wild Honey', NULL, NULL
+1392, 'Summer Sun', NULL, NULL
+1393, 'Wind Hunting', NULL, NULL
+1394, 'Skat', NULL, NULL
+1395, 'Pro Tanto', NULL, NULL
+1396, 'Hussy II', NULL, NULL
+1397, 'Squiggly', NULL, NULL
+1398, 'Nefarious', 54, 'Farr 30'
+1399, '#522', NULL, NULL
+1400, 'Lawton P. Evan (Attorneys at Law)', NULL, NULL
+1401, 'Laser #2397', NULL, NULL
+1402, 'Tipsy Gypsy', 90, 'Soverel 33'
+1403, 'M23 Cat', NULL, NULL
+1404, '11470', NULL, NULL
+1405, 'Lazy J', NULL, NULL
+1406, 'Wounded Mouse', 879, 'Flying Dutchman'
+1407, 'Bravo Zulu', NULL, NULL
+1408, 'Dasha', NULL, NULL
+1409, 'Slingshot', 138, 'J30'
+1410, 'Yankee III', NULL, NULL
+1411, '6th Element', NULL, NULL
+1412, 'Molly Brown', NULL, NULL
+1413, 'Salsa', NULL, NULL
+1414, 'FD US 130', NULL, NULL
+1415, 'TackHammer', NULL, NULL
+1416, 'Chi Chi', 201, 'J/22'
+1417, 'Leviaton', NULL, NULL
+1418, 'Baby Jane', NULL, NULL
+1419, 'Fred', NULL, NULL
+1420, 'Taser #801', NULL, NULL
+1421, '361', NULL, NULL
+1422, '131377', NULL, NULL
+1423, 'Winke', NULL, NULL
+1424, 'Taser', NULL, NULL
+1425, 'Chaos', 117, 'Olson 30'
+1426, '183', NULL, NULL
+1427, 'Mikaki', NULL, NULL
+1428, 'Lighting #11470', NULL, NULL
+1429, '7001', NULL, NULL
+1430, 'Wakini', NULL, NULL
+1431, 'Free Byrd', NULL, NULL
+1432, 'Bergin Viking', NULL, NULL
+1433, 'Vanadis', NULL, NULL
+1434, 'Heart Attack', NULL, NULL
+1435, 'Incorigable', NULL, NULL
+1436, 'Wounded Mouse II', 879, 'Flying Dutchman'
+1437, 'Mo\'o', NULL, NULL
+1438, 'Polly Ester', NULL, NULL
+1439, 'Forward Symmetry', NULL, NULL
+1440, 'Crazy Ivan', 123, 'J80'
+1441, 'Poly Ester', NULL, NULL
+1442, 'Tatiana', NULL, NULL
+1443, 'Waka', NULL, NULL
+1444, 'Cake or Death', NULL, NULL
+1445, 'Buttercup', NULL, NULL
+1446, 'Ocean Safari', NULL, NULL
+1447, 'US #1204', NULL, NULL
+1448, 'Wilson', NULL, NULL
+1449, 'Beat It', NULL, NULL
+1450, 'No Number Laser', NULL, NULL
+1451, 'The Bugler', NULL, NULL
+1452, 'Windspirit', NULL, NULL
+1453, 'Koyah', NULL, NULL
+1454, 'Winddancer', NULL, NULL
+1455, 'Blue Rocket', NULL, NULL
+1456, 'Lighting #15004', NULL, NULL
+1457, 'Yeah Boy', NULL, NULL
+1458, 'Project Mayhem', NULL, NULL
+1459, 'Kotuku', NULL, NULL
+1460, 'Loreli', NULL, NULL
+1461, 'EGB', NULL, NULL
+1462, 'Friday', NULL, NULL
+1463, 'Hobie #136', NULL, NULL
+1464, 'Iolar', NULL, NULL
+1465, 'Duck Soup', NULL, NULL
+1466, 'Boatly', NULL, NULL
+1467, 'Jedi', -3, 'J/145'
+1468, 'Shazam', NULL, NULL
+1469, 'Laser #168281', NULL, NULL
+1470, 'Rachel', NULL, NULL
+1471, 'Kittiwake', NULL, NULL
+1472, 'Drakken', NULL, NULL
+1473, 'M-23', NULL, NULL
+1474, 'KC 111', NULL, NULL
+1475, 'Blueberry', NULL, NULL
+1476, 'Leviathon', NULL, NULL
+1477, '244', NULL, NULL
+1478, 'US #363', NULL, NULL
+1479, 'Wounded Moose Duece', 879, 'Flying Dutchman'
+1480, '168281', NULL, NULL
+1481, '5542', NULL, NULL
+1482, 'Hinzite', NULL, NULL
+1483, 'Red Dwarf', NULL, NULL
+1484, 'Necessary Evil', 201, 'Catalina 30'
+1485, 'Double Take', NULL, NULL
+1486, 'Muffin', NULL, NULL
+1487, 'Special K', NULL, NULL
+1488, 'Cobalt', NULL, NULL
+1489, 'Project Mayham', NULL, NULL
+1491, 'Itchi Butt', NULL, NULL
+1492, 'Putaxent', NULL, NULL
+1493, 'US #88', 120, 'Etchells 22'
+1494, 'Thundorca', NULL, NULL
+1495, 'Nimble', NULL, NULL
+1496, 'Valkire', NULL, NULL
+1497, 'Mustache Ride', 214, 'Choate 22'
+1498, '', 186, 'Harbor 25'
+1499, 'Wizard', NULL, NULL
+1500, 'Bonnie', NULL, NULL
+1501, 'Planet Clair', NULL, NULL
+1502, 'Flashpoint', NULL, NULL
+1503, 'Fred Jr.', NULL, NULL
+1504, 'OJ', 186, 'J/24'
+1505, 'Zipper', NULL, NULL
+1506, 'Blue Berru', NULL, NULL
+1507, 'Gift Horse', NULL, NULL
+1508, '102', NULL, NULL
+1509, 'Mint Grove', NULL, NULL
+1510, '472', NULL, NULL
+1511, '800', NULL, NULL
+1512, '13004', NULL, NULL
+1513, 'H-23', NULL, NULL
+1514, 'Blazing Zipper', 240, 'Ranger 23'
+1515, 'Can 470', NULL, NULL
+1516, 'Briza', NULL, NULL
+1517, 'The Happy', NULL, NULL
+1518, 'Poke & Destroy', 93, 'Evelyn 32'
+1519, 'Beagle', 171, 'J/24'
+1520, 'Vivace', NULL, NULL
+1521, 'Suspence', NULL, NULL
+1522, 'Skookum', NULL, NULL
+1523, 'Ocelot', NULL, NULL
+1524, 'Despencer', NULL, NULL
+1525, 'Baby Girl', NULL, NULL
+1526, 'Lemon Drop', NULL, NULL
+1527, 'Flyin Lion', NULL, NULL
+1528, 'Quandary', NULL, NULL
+1529, '2687', NULL, NULL
+1530, 'Typsy Gypsy', 90, 'Soverel 33'
+1531, 'Windswept', NULL, NULL
+1532, 'Fast Tango', NULL, NULL
+1533, 'Hoby #69351', NULL, NULL
+1534, 'Morphine', NULL, NULL
+1535, 'Night Shade', NULL, NULL
+1536, 'Doice Vita', NULL, NULL
+1537, 'Heron', NULL, NULL
+1538, 'Habanero', NULL, NULL
+1539, 'Shining Star', NULL, NULL
+1540, 'Jeff\'s 13', NULL, NULL
+1541, 'Rayo #9401', NULL, NULL
+1542, 'Inconceivable', NULL, NULL
+1543, 'Stella Blue', NULL, NULL
+1544, '#5542', NULL, NULL
+1545, '#375', NULL, NULL
+1546, '# 206064', NULL, NULL
+1547, 'Melges - M23', NULL, NULL
+1548, '#1380', NULL, NULL
+1549, 'Jinx', NULL, NULL
+1550, 'Safety Third', NULL, NULL
+1551, 'Aero #1380', NULL, NULL
+1552, 'Earendel', NULL, NULL
+1553, '# 1788', NULL, NULL
+1554, 'Aero - 1380', NULL, NULL
+1555, 'Black Watch', NULL, NULL
+1556, 'Aero 1380', NULL, NULL
+1557, '#88', 120, 'Etchells 22'
+1558, 'asolutely', NULL, NULL
+1559, 'Crunchy Vegetable', NULL, NULL
+1560, '#M23', NULL, NULL
+1561, '#470', NULL, NULL
+1562, 'Haanero', NULL, NULL
+1563, '#3695', NULL, NULL
+1564, 'Square One', 54, 'Farr 30'
+1565, 'Elwood-VXOne', 118, 'VXOne'
+1566, 'Slippery when Wet', 240, 'Santana 240'
+1567, '#10864', NULL, NULL
+1568, '#2398', NULL, NULL
+1569, 'Evermore', 109, 'Moore 24'
+1570, 'Sail # - 7900', NULL, NULL
+1571, 'CAN #520', NULL, NULL
+1572, '#119', NULL, NULL
+1573, 'Oceana', NULL, NULL
+1574, 'Jink', NULL, NULL
+1575, '#216', NULL, NULL
+1576, 'Azul', NULL, NULL
+1713, 'Absolutely', 18, 'Farr 39'
+1715, 'Tantivy', 69, 'J/109'
+1716, 'Persistence', 105, 'Seascape 27'
+1717, 'Pooka', 180, 'Wylie Wabbit'
+1718, 'Vanilla III', 1030, 'RS Aero 9'
+1719, 'Tailwind', 195, 'Capri 25'
+1720, 'Jinx', 201, 'J/22'
+1721, 'Summer Sled', 225, 'Harbor 20'
+1722, 'Wandering Aegnus', 198, 'Thunderbird'
+1723, 'Ichi Butt', 149, '505'
+1724, 'Darkside', 75, 'Scho 35'
+1725, 'Fairwind', 110, 'C&C 40'
+1728, 'Chola', 159, 'Ranger 33-Non FS'
+1729, 'Little White Rabbit', 183, 'Merit 25'
+1730, 'M23', -12, 'Multi 23 Trimaran'
+1731, 'Sutters Gold', 129, 'Etchell 22'
+1732, 'Thistle: Sail #603', 83, 'Thistle'
+1733, 'Tasar 3: Sail #677', 1018, 'Tasar'
+1734, 'Freja', 18, 'Aerodyne 43'
+1735, 'African Queen', 99, 'J/92 S'
+1736, 'Tatonka', 222, 'SJ/24'
+1737, 'Monomoy', 171, 'J/24'
+1738, 'Kittiwake', 201, 'Islander Bahama'
+1739, 'Precocious', 203, 'Catalina Capri 25'
+1740, 'Blackout', 129, 'Santana 3030'
+1741, 'Oxomoxo', 99, 'Swan 391'
+1742, 'Mara', 132, 'Buchan 37'
+1743, 'Hula', 239, 'Westsail 32'
+1744, 'Seoladh', 159, 'Ranger 33'
+1745, 'Tonic', 117, 'Peterson 34'
+1746, 'SYC #5', 177, 'J/22'
+1747, 'Crystal', 159, 'Ranger 33'
+1748, 'US-88', 120, 'Etchells 22'
+1749, 'Invader', 198, 'Thunderbird'
+1750, 'Gift Horse', 162, 'Choate 27'
+1751, 'Kitty', 93, 'J/92'
+1752, 'Great Expectations', 46, 'Farr 50'
+1753, 'Whip/Wavelength/US #121', 93, 'AMF Whip'
+1754, 'Inconcievable', NULL, 'O\'Day Day Sailor'
+1755, 'Sail #547', 99, 'Melges 22'
+1756, 'Melges 24', NULL, 'Sail #547'
+1757, 'Gold Rush', 88, 'Tasar'
+1758, 'Barbaree', 198, 'Thunderbird'
+1759, 'Hammer', -19, 'Schock 40'
+1760, 'Amorilla', 162, 'Moore 24'
+1761, 'Hydra', 21, 'King 40'
+1762, 'Bad Xample', 117, 'X-342 Masthead-Rig'
+1763, 'Cake or Death', 222, 'SJ/24'
