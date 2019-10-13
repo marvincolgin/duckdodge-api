@@ -4,8 +4,8 @@ from django.core.validators import MaxValueValidator, MinValueValidator
 class Boat(models.Model):
     id = models.AutoField(primary_key=True)
     boat = models.CharField(max_length=255)
-    phrf = models.IntegerField(default=None)
-    make = models.CharField(max_length=50, default=None)
+    phrf = models.IntegerField(default=None, null=True)
+    make = models.CharField(max_length=50, default=None, null=True)
 
     def __str__(self):
         return f'{self.boat} / {self.make} phrf:{self.phrf}'
