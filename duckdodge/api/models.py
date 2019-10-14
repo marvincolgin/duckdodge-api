@@ -21,3 +21,9 @@ class Race(models.Model):
 
     def __str__(self):
         return f'{self.racedate} Start:{self.start} Place:{self.place} {self.boat}'
+
+class ImportCSV(object):
+    def __init__(self, status, rows):
+        self.status = status
+        self.rows = rows
+        

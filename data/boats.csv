@@ -1,5 +1,3 @@
-INSERT INTO `dd_boats` (`id`, `name`, `phrf`, `type`) VALUES
-
 70, 'Briza', 189, 'Ranger 29'
 123, 'Double Take', -27, 'J/145'
 150, 'Dreams', 159, 'Olson 25'

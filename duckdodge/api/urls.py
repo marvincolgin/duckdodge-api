@@ -6,4 +6,5 @@ urlpatterns = [
     path('races/<int:pk>/', views.RaceDetail.as_view()),
     path('boats/', views.BoatList.as_view()),
     path('boats/<int:pk>/', views.BoatDetail.as_view()),
+    path('import/', views.ImportCSV().as_view()),
 ]
